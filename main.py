@@ -174,7 +174,8 @@ def shiftConversion():
             date.pop(len(startList)-1)
             startList.pop(len(startList)-1)
             endList.pop(len(startList)-1)
-
+            
+# This function uses a while loop to convert the lists into Calendar events.
 
 def Upload():
     counter = -1
@@ -218,6 +219,7 @@ def Upload():
         except HttpError as error:
             print(f"An error occurred {error}")
 
+# GUI Functions and Layout
 
 def submit():
     findUser()
