@@ -42,13 +42,6 @@ External Libaries used:
 - Breaks down strings imported from Excel into useable data for Google.
 - Automatically uploads calendar events to Google Account. 
 
-
-## Screenshots
-
-![App Screenshot]([file:///C:/Users/Ky%20Farrar/PycharmProjects/ConverterScreenShots.pdf](https://github.com/Klonegun/ExcelToGoogleCalendar/blob/main/ConverterScreenShots.pdf))
-
-
 ## Feedback
-
 If you have any feedback or would like to discuss the project, please reach out to me at kyfarrar@outlook.com
 
