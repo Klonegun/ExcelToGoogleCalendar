@@ -45,7 +45,7 @@ External Libaries used:
 
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/Ky%20Farrar/PycharmProjects/ConverterScreenShots.pdf)
+![App Screenshot]([file:///C:/Users/Ky%20Farrar/PycharmProjects/ConverterScreenShots.pdf](https://github.com/Klonegun/ExcelToGoogleCalendar/blob/main/ConverterScreenShots.pdf))
 
 
 ## Feedback
